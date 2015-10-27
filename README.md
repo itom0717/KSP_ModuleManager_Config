@@ -17,7 +17,7 @@ ModuleManager.dll  ----- ネットで探してください。
 
 ##使用方法
 
-①実行ファイルなどは存在しないので、右下の Download zipでダウンロードします。   
+①上の releases から最新版をダウンロードします。   
 
 ② Kerbal Space Program内の「GameData」の中に ModuleManager.dll を入れます。  
 
